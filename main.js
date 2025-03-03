@@ -1,4 +1,6 @@
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.module.js';
+
+console.log(THREE)
 import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.132.2/examples/jsm/controls/OrbitControls.js';
 import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js';
 
